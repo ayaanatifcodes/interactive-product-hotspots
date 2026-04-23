@@ -1,4 +1,4 @@
-# 🚀 Interactive Product Hotspots
+# Interactive Product Hotspots
 
 An elegant and lightweight interactive UI component that adds animated hotspots to any product image. Designed for modern landing pages, product demos, and UI/UX showcases.
 
